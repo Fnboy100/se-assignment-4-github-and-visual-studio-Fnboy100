@@ -215,7 +215,8 @@ jobs:
         fi
 
 
-In this example, the workflow is triggered on every push to the main branch. The workflow defines a single job that checks out the code, sets up Node.js, installs dependencies, builds the project, runs tests, and finally, deploys the project if the build and tests are successful.
+In this example, the workflow is triggered on every push to the main branch. The workflow defines a single job that checks out the 
+code, sets up Node.js, installs dependencies, builds the project, runs tests, and finally, deploys the project if the build and tests are successful.
 
 
 Introduction to Visual Studio:
